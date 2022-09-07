@@ -1,0 +1,4 @@
+tqdm==4.33.0
+requests==2.23.0
+pystyle
+selenium
